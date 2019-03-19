@@ -1,4 +1,4 @@
-cmosetick/docker-dind
+cmosetick/docker-sops
 =====================
 
 ## Overview

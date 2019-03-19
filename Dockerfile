@@ -1,5 +1,5 @@
 # combined sops build with docker
-# gives you sops command and docker command at /usr/local/bin a single docker image
+# gives you sops command and docker command at /usr/local/bin in a single docker image
 
 
 # https://github.com/mozilla/sops
